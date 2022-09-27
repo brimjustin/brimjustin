@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justin Brim</h1>
 <h3 align="center">A passionate Data Science and ML Engineer form the USA.</h3>
 
-- 🔭 I’m currently working on **Graduating Bloomtech**
+- 🔭 I am **Graduated from Bloomtech**
 
-- 🌱 I’m currently learning **Python, ML**
+- 🌱 I’m currently honing my skills in  **Python, ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brimjustin](https://github.com/brimjustin)
 
