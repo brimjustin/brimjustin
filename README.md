@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Brim</h1>
-<h3 align="center">A passionate Data Science and ML Engineer form the USA.</h3>
+<h3 align="center">A passionate Data Science and ML Engineer from the USA.</h3>
 
 - 🔭 I am **Graduated from Bloomtech**
 
