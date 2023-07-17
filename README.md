@@ -3,7 +3,7 @@
 
 - 🔭 I am **Graduated from Bloomtech**
 
-- 🌱 I’m currently honing my skills in  **Python, ML**
+- 🌱 I’m currently honing my skills in  **Python, ML & Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brimjustin](https://github.com/brimjustin)
 
